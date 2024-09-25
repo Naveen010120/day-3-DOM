@@ -1,0 +1,16 @@
+table,th,tr,td{
+    border: 2px solid;
+    border-collapse: collapse;
+}
+img{
+    width: 150px;
+}
+th{
+    text-transform: capitalize;
+    font-size: 1.5rem;
+    padding: 30px;
+}
+td{
+    padding: 20px;
+    text-align: justify;
+}
